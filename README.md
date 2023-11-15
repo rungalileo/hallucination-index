@@ -1,3 +1,4 @@
+![LLM Hallucination Index](https://user-images.githubusercontent.com/138050654/283170284-a2f30e59-3b92-4d6c-a904-31f622b5c911.png)
 # 🌟 LLM Hallucination Index 🌟
 ## About the Index 💥
 The Hallucination Index is an ongoing initiative to evaluate and rank the most popular LLMs based on propensity to hallucinate. The index uses a comprehensive set of datasets, chosen for their diversity and ability to challenge the model’s abilities to stay on task. 
