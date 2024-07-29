@@ -1,7 +1,7 @@
 # 🌟 LLM Hallucination Index - RAG Special 🌟
 
 <p align="center">
-  <img src="https://gist.github.com/user-attachments/assets/316d4cdd-f8d4-4bbd-ad6f-e8949e3b1854" />
+  <img src="images/1.png" />
 </p>
 
 <p align="center">
