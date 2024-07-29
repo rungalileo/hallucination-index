@@ -106,7 +106,7 @@ Our focus here was on assessing models’ ability to comprehensively understand 
 
 We experimented with a prompting technique known as Chain-of-Note, which has shown promise for enhancing performance in short-context scenarios, to see if it similarly benefits medium and long contexts.
 
-## Evaluation
+### Evaluation
 
 Adherence to context was evaluated using a custom LLM-based assessment, checking for the relevant answer within the response.
 
