@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.rungalileo.io/hallucinationindex">https://www.rungalileo.io/hallucinationindex</a>
+  <a href="https://galileo.ai/hallucination-index">https://galileo.ai/hallucination-index</a>
 </p>
 
 # About the Index
