@@ -1,7 +1,7 @@
 # 🌟 LLM Hallucination Index - RAG Special 🌟
 
 <p align="center">
-  <img src="2025-LLM-Hallucination-Index.png" />
+  <img src="/images/2025-LLM-Hallucination-Index.png" />
 </p>
 
 <p align="center">
